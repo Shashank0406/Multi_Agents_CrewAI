@@ -1,8 +1,6 @@
-# Multi_Agents_CrewAI
-
-Multi-Agent System for Topic Research, Blog Writing, and LinkedIn Posts
-#Overview
-This Python script sets up a multi-agent system using the crewai library. The system consists of three agents: the Topic Research Agent, the LinkedIn Post Creator, and the Blog Writer. Each agent has specific roles and responsibilities:
+# Multi-Agent System for Topic Research, Blog Writing, and LinkedIn Posts
+# Overview
+  This Python script sets up a multi-agent system using the crewai library. The system consists of three agents: the Topic Research Agent, the LinkedIn Post Creator, and the Blog Writer. Each agent has specific roles and responsibilities:
 
 1.Topic Research Agent:
   Goal: Search for relevant information on a given topic from a specified YouTube video.
